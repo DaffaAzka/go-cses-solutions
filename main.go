@@ -1,6 +1,8 @@
 package main
+
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World!")
+	testWeirdAlgorithm := weirdAlgorithm(3)
+	fmt.Println(testWeirdAlgorithm) 
 }
